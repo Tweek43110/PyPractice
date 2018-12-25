@@ -2,4 +2,4 @@
 def myName():
     print('Hi, my name is Alex')
 
-myName()
+myName() # Calling on the function later
